@@ -1,1 +1,38 @@
 # weld-scraper
+
+## Background
+
+<img width="1049" height="1279" alt="image" src="https://github.com/user-attachments/assets/58438cf9-ad21-47d9-ac3d-e58200a0b412" />
+
+https://www.weld.gov/Legal-and-Public-Notices/Planning-Notices/2026-Planning-Notices/Notice-of-Hearing-USR26-0019 currently shows:
+
+<img width="2344" height="838" alt="image" src="https://github.com/user-attachments/assets/e186a23d-6776-43f6-9126-f0e2b75bc5db" />
+
+Internet archive currently shows:
+
+<img width="1560" height="1072" alt="image" src="https://github.com/user-attachments/assets/9dac801d-4f19-44cd-a669-39724b18237e" />
+
+## MVP
+
+The [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) is weld.gov-archive.org showing:
+
+### 1. https://www.weld.gov/Legal-and-Public-Notices/Planning-Notices
+### 2. all pages under https://www.weld.gov/Legal-and-Public-Notices/Planning-Notices
+### 3. a history / snapshot of above showing any additions, deletions, changes captured at least once a week starting before October 31st, 2026 through September 1st, 2027
+### 4. work transparently published under a freedom centered / copy left / open source license
+
+## Stretch Goals
+
+As time permits:
+
+### a. automatically flag/notify changes that match certain criteria, e.g. a user may request notifications for changes related to water in Weld county
+### b. support/maintenance past September 1st, 2027
+### c. user submitted feature requests
+### d. archiving all .gov websites (not just weld.gov)
+
+## Out of Scope
+
+Explicitly we do not want to do any of the following
+
+* accept any money / make money (we will happily reject any money -- this work is entirely funded by the developers and powered by free / opensource contributions)
+* support / endorse any political candidate / position (we support transparency and facts -- we support all political views / opinions in leveraging facts and historical records)
