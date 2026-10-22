@@ -27,14 +27,14 @@ The [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) is weld.gov-arch
 
 As resources permit:
 
-### a. automatically flag/notify changes that match certain criteria, e.g. a user may request notifications for changes related to water in Weld county
+### a. automatically flag/notify users of changes that match certain criteria, e.g. a user may request notifications for changes related to water in Weld county
 ### b. support/maintenance past September 1st, 2027
-### c. user submitted feature requests
-### d. archiving all of weld.gov and/or additional .gov websites (not just weld.gov)
+### c. archive all of weld.gov and/or additional .gov websites (not just weld.gov)
+### d. additional user submitted feature requests
 
 ## Out of Scope
 
 Explicitly we (the owners of weld.gov and developers in this github repo) do not want to do any of the following
 
-* accept any money / make money (we will happily reject any money -- this work is entirely funded by the developers and powered by free / opensource contributions)
+* accept any money / profit (we will happily reject donations -- this work is entirely funded by the developers and powered by free open source contributions)
 * support / endorse any political candidate / position (we support transparency and facts -- we support all political views / opinions in leveraging facts and historical records)
