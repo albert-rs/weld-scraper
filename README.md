@@ -34,7 +34,7 @@ As resources permit:
 
 ## Out of Scope
 
-Explicitly we (the [owner of gov-archive.org](mailto:beck@gov-archive.org) and developers in this github repo) do not want to do any of the following
+Explicitly we (the [owner of gov-archive.org](mailto:beck@gov-archive.org) and contributors of this github repo) do not want to do any of the following for this project:
 
-* accept any money / profit (we will happily reject donations -- this work is entirely funded by the developers and powered by free open source contributions)
+* accept any money / profit for (we will happily reject donations -- this work is entirely funded by the developers and powered by free open source contributions)
 * support / endorse any political candidate / position (we support transparency and facts -- we support all political views / opinions in leveraging facts and historical records)
