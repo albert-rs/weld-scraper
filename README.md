@@ -1,6 +1,6 @@
-# weld-scraper
+# Weld Scraper
 
-Weld Scraper archives `.gov` websites for the public record, starting with [weld.gov](https://weld.gov).
+We archive `.gov` websites for the public record, starting with [weld.gov](https://weld.gov).
 
 ## Background
 
