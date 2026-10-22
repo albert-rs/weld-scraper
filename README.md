@@ -2,7 +2,7 @@
 
 ## Background
 
-<img width="1049" height="1279" alt="image" src="https://github.com/user-attachments/assets/58438cf9-ad21-47d9-ac3d-e58200a0b412" />
+<img width="1049" height="1279" alt="notice of hearing preview" src="https://github.com/user-attachments/assets/58438cf9-ad21-47d9-ac3d-e58200a0b412" />
 
 https://www.weld.gov/Legal-and-Public-Notices/Planning-Notices/2026-Planning-Notices/Notice-of-Hearing-USR26-0019 currently shows:
 
